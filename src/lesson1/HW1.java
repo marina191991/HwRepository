@@ -1,8 +1,8 @@
 package ru.geekbrains.homework1;
 
-public class HomeWorkApp {
+public class HW1 {
    public static void main (String[] args)
-   { Fruits();
+   { fruits();
       System.out.println("****");
  int z = 0;
    checkSumSign(5, 10);
@@ -20,7 +20,7 @@ public class HomeWorkApp {
    }
 
    //ex.2
-   static void Fruits() {
+   static void fruits() {
    System.out.println("Orange");
    System.out.println("Banana");
    System.out.println("Apple");

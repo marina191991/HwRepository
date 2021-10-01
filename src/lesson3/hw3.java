@@ -6,11 +6,8 @@ public class hw3 {
         int[] arr2 = new int[100];
         int[] arr3 = new int[]{1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
         int[][] arr4 = new int[5][5];
-<<<<<<< HEAD
-        int[] arr6 = new int[]{1, 1,18,10,10,0};
-=======
         int[] arr6 = new int[]{1, 1,18,10,10,-1};
->>>>>>> HomeWork3
+
         System.out.println("1.*********");
         arrInt(arr1);
         System.out.println("2.*********");
